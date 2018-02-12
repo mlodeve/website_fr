@@ -10,8 +10,8 @@ Selon que vous êtes totalement nouveau dans le monde de Ğ1, déjà membre, pos
 Voici quelques possibilités.
 
 #### Vous êtes totalement nouveau
-
-Suivez quelques tutoriels pour [tenter de devenir membre de la Toile de Confiance Ğ1](../wiki/devenir-membre). C'est la toute 1ère étape : devenir utilisateur !
+La première étape est d'ouvrir un simple portefeuille et [d'essayer d'obtenir quelques Ğ1](.../content/pages/obtenir-des-g1.md) Testez et vous faites vous la main.
+Puis suivez quelques tutoriels pour [tenter de devenir membre de la Toile de Confiance Ğ1](../wiki/devenir-membre). C'est la toute 1ère étape : devenir utilisateur !
 
 #### Vous avez déjà utilisé un peu Ğ1
 
